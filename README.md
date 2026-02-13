@@ -1,2 +1,2 @@
-# PBO-Sistem-Pemnjaman-Buku-Perpustakaan
+# PBO-Sistem-Peminjaman-Buku-Perpustakaan
 web (siperpus)
